@@ -11,4 +11,4 @@ The zip file contains two files.
 
 <b>Source_Classification_Code.rds</b>: This table provides a mapping from the SCC digit strings in the Emissions table to the actual name of the PM2.5 source. The sources are categorized in a few different ways from more general to more specific and you may choose to explore whatever categories you think are most useful. For example, source “10100101” is known as “Ext Comb /Electric Gen /Anthracite Coal /Pulverized Coal”.
 
-You can read each of the two files using the \color{red}{\verb|readRDS()|}readRDS() function in R. 
+You can read each of the two files using the readRDS() function in R. 
